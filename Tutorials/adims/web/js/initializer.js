@@ -1,0 +1,5 @@
+﻿$(window).on("load", function () {
+
+ 
+})
+
