@@ -1,0 +1,55 @@
+ a {
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.quick-links a{
+    color: #1cf773;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+
+.quick-links a:hover {
+    color: #09ab49;
+    font-weight: bolder;
+}
+.site-logo {
+    color: #1cf773;
+    float: none;
+    margin-right: 0;
+    font-family: "Avenir LT W01 65 Medium", Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    line-height: 1.25em;
+}
+
+.big-background .content h1 {
+    color: #FF9800;
+    font-size: 3.5em;
+    font-weight: bold;
+    text-align:center;
+}
+.big-background .content h3 {
+    color: #1cf773;
+    line-height: 1.5em;
+    font-size: 1.25em;
+    font-weight: bold;
+    line-height: 1.2em;
+    padding-bottom: 1.125em;
+}
+.big-background .content {
+    padding-top: 5.625em;
+    padding-bottom: 3em;
+    width: 100%;
+    vertical-align: middle;
+}
+.item-desc h3{
+ color: #333;
+ font-weight: bold;
+}
+
+.content-overview .solution-header h2{
+ color: #09ab49;
+font-weight: bold;
+}

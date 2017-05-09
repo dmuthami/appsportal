@@ -1,0 +1,1 @@
+$(document).ready(function(){$("#gallery-cont").cycle({log:!1,slides:"> div",fx:"scrollHorz",sync:!0,speed:1500,prev:"#glprev",next:"#glnext",paused:!0,autohHeight:0})});

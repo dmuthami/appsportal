@@ -1,0 +1,1 @@
+$("body").click(function(){$("#dropDown").hide(),$("#down-arrow").removeClass("active")}),$(document).ready(function(){$("#down-arrow").click(function(o){$("#dropDown").toggle(),$(this).toggleClass("active"),o.stopPropagation()})});
